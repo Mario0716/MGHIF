@@ -1,13 +1,8 @@
+# Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation
+Chengyuan Zhang, Yang Wang, Lei Zhu, Jiayu Song, and Hongzhi Yin. 2021. [Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation](https://dl.acm.org/doi/10.1145/3466641). ACM Trans. Inf. Syst. 40, 2, Article 28 (April 2022), 26 pages. https://doi.org/10.1145/3466641
 
 ## 
-The codes are developed by lei zhu, Central South University
-Contact: leizhu@csu.edu.cn / lzhu.cs@gmail.com
-
-- This repository is the implementation of [MGHIF](https://dl.acm.org/doi/10.1145/3466641):
-> Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation
-Chengyuan Zhang, Yang Wang, Lei Zhu, Jiayu Song, Hongzhi Yin
-
-	
+The codes are developed by Lei Zhu(HUNAU) & Jiayu Song (CSU)
 
 
 ### Files in the folder
@@ -56,3 +51,18 @@ Note: the emb_dim in src/metapath/config.py should equal n_emb in src/GraphGAN/c
 
 ```python main.py```
 
+
+## Citing this
+If you think it is useful for your research, please consider citing this:
+```
+@article{zhang2021multi,
+  title={Multi-graph heterogeneous interaction fusion for social recommendation},
+  author={Zhang, Chengyuan and Wang, Yang and Zhu, Lei and Song, Jiayu and Yin, Hongzhi},
+  journal={ACM Transactions on Information Systems (TOIS)},
+  volume={40},
+  number={2},
+  pages={1--26},
+  year={2021},
+  publisher={ACM New York, NY}
+}
+```
