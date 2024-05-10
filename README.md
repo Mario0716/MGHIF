@@ -2,7 +2,7 @@
 Chengyuan Zhang, Yang Wang, Lei Zhu, Jiayu Song, and Hongzhi Yin. 2021. [Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation](https://dl.acm.org/doi/10.1145/3466641). ACM Trans. Inf. Syst. 40, 2, Article 28 (April 2022), 26 pages. https://doi.org/10.1145/3466641
 
 ## 
-The codes are developed by Lei Zhu(HUNAU) & Jiayu Song (CSU)
+The codes are developed by Lei Zhu (HUNAU) & Jiayu Song (CSU)
 
 
 ### Files in the folder
