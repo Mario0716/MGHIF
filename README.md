@@ -44,12 +44,16 @@ The user-item graph data is stored in data/\<Dataset>/rating.txt, which is rando
 ### Basic usage
 Using GraphGAN with user-user graph data for pre-training.
 
-```python pretrain.py```   
+```
+python pretrain.py
+```   
 
 The backbone model first load the user embedding pretrained by GraphGAN, then use the divided user-item graph data to train. 
 Note: the emb_dim in src/metapath/config.py should equal n_emb in src/GraphGAN/config.py.
 
-```python main.py```
+```
+python main.py
+```
 
 
 ## Citing this
